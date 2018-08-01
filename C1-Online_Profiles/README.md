@@ -8,9 +8,11 @@ For this assignment you will need to upload your resume, and provide links to yo
 
 ### GitHub
 Provide a link to your GitHub account here.
+[Paul Fannon's GitHub](https://github.com/p-fannon)
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+[Paul Fannon's LinkedIn](https://www.linkedin.com/in/paulfannon/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
